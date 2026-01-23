@@ -76,18 +76,26 @@
 
 <br/>
 
+<br/>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhnalwnd&theme=algolia" alt="farhnalwnd" />
+</p>
+
 ## 📊 Github Stats
 
 <details open> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/farhanalwanda">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanalwanda&show_icons=true&locale=en&theme=algolia" alt="farhanalwanda" height="192px"/>
+    <a href="https://github.com/farhnalwnd">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&locale=en&theme=algolia" alt="farhnalwnd" height="192px"/>
     </a>
   </p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanalwanda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="farhanalwanda" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhnalwnd&show_icons=true&locale=en&layout=compact&theme=algolia" alt="farhnalwnd" height="192px"/>
   </p>
   <p align="center">
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -97,11 +105,13 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-    <a href="https://github.com/farhanalwanda">
-        <img alt="Farhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farhanalwanda&custom_title=Farhan%20Alwanda's%20Contribution%20Graph&theme=react-dark" />
+    <a href="https://github.com/farhnalwnd">
+        <img alt="Farhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farhnalwnd&custom_title=Farhan%20Alwanda's%20Contribution%20Graph&theme=react-dark" />
     </a>
   <br/>
 </details>
+
+<br/>
 
 ## 🙋‍♀️ Let's Connect
 
@@ -109,5 +119,5 @@
     <a href="https://farhanalwandaportofolio.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
     <a href="mailto:raja.farhan.alwanda@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://linkedin.com/in/farhan-alwanda"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="https://github.com/farhanalwanda"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://github.com/farhnalwnd"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
