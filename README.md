@@ -7,7 +7,7 @@
 <hr/>
 
 <h4 align="center">
-I am a recent Informatics Engineering graduate from President University with hands-on experience in web development and IoT projects. Currently, I am serving as a Web Development Intern at PT Sinar Meadow International, where I focus on building scalable and high-performance internal systems. I am passionate about problem-solving, hardware tinkering, and creating innovative digital solutions.
+I am a recent Informatics Engineering graduate from President University with hands-on experience in web development and IoT projects. I previously served as a Web Development Intern at PT Sinar Meadow International, where I focused on building scalable and high-performance internal systems. I am passionate about problem-solving, hardware tinkering, and creating innovative digital solutions.
 </h4>
 
 <br>
@@ -38,18 +38,26 @@ I am a recent Informatics Engineering graduate from President University with ha
   </a>
 </p>
 
-### 👉 Frameworks & Web Technologies
+### 👉 Frameworks
 <p align="left">
   &emsp;
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
+  &emsp;
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+  &emsp;
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495E.svg?logo=vuedotjs&logoColor=%234FC08D">
+  &emsp;
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-%2300ADD8.svg?logo=go&logoColor=white">
+</p>
+
+### 👉 Web Tools & Technologies
+<p align="left">
   &emsp;
   <img alt="Livewire" src="https://img.shields.io/badge/Livewire-%234e70bd.svg?logo=livewire&logoColor=white">
   &emsp;
   <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?logo=alpinedotjs&logoColor=black">
   &emsp;
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-  &emsp;
-  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
   &emsp;
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
 </p>
@@ -62,16 +70,6 @@ I am a recent Informatics Engineering graduate from President University with ha
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?logo=arduino&logoColor=white">
   &emsp;
   <img alt="ESP32" src="https://img.shields.io/badge/ESP32-%23E7352C.svg?logo=espressif&logoColor=white">
-</p>
-
-### 👉 Databases
-<p align="left">
-  &emsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
-  &emsp;
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-  &emsp;
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 </p>
 
 <br/>
