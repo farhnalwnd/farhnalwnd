@@ -7,7 +7,7 @@
 <hr/>
 
 <h4 align="center">
-[cite_start]I am a recent Informatics Engineering graduate from President University with hands-on experience in web development and IoT projects. [cite_start]Currently, I am serving as a Web Development Intern at PT Sinar Meadow International, where I focus on building scalable and high-performance internal systems[cite: 22, 23, 25]. [cite_start]I am passionate about problem-solving, hardware tinkering, and creating innovative digital solutions[cite: 5, 9, 15].
+I am a recent Informatics Engineering graduate from President University with hands-on experience in web development and IoT projects. Currently, I am serving as a Web Development Intern at PT Sinar Meadow International, where I focus on building scalable and high-performance internal systems. I am passionate about problem-solving, hardware tinkering, and creating innovative digital solutions.
 </h4>
 
 <br>
@@ -73,8 +73,6 @@
   &emsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 </p>
-
-<br/>
 
 <br/>
 
