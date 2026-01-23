@@ -95,7 +95,7 @@
     </a>
   </p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhnalwnd&show_icons=true&locale=en&layout=compact&theme=algolia" alt="farhnalwnd" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&locale=en&theme=algolia&hide_rank=true&number_format=short" alt="farhnalwnd" height="192px"/>
   </p>
   <p align="center">
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
