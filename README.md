@@ -80,8 +80,8 @@ I am a recent Informatics Engineering graduate from President University with ha
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/dimasmds">
-      <img src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="farhnalwnd" height="192px"/>
+    <a href="https://github.com/farhnalwnd">
+      <img src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_rank=true&number_format=short" alt="farhnalwnd" height="192px"/>
     </a>
   </p>
   <p align="center">
