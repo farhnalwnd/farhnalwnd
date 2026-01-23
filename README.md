@@ -76,12 +76,32 @@
 
 <br/>
 
-## 📈 Current Projects at Sinar Meadow
-* [cite_start]**Financial Management System**: Built with Laravel & Alpine.js for inter-departmental budget tracking[cite: 26, 31, 32].
-* [cite_start]**Custom CMS**: Developed using Filament (Livewire & Alpine.js) with a Tailwind CSS mobile-first design[cite: 33, 37, 38].
-* [cite_start]**Warehouse Requisition System**: Automated workflow with multi-level approvals and real-time notifications[cite: 43, 46].
+## 📊 Github Stats
 
-<br/>
+<details open> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/farhanalwanda">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanalwanda&show_icons=true&locale=en&theme=algolia" alt="farhanalwanda" height="192px"/>
+    </a>
+  </p>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanalwanda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="farhanalwanda" height="192px"/>
+  </p>
+  <p align="center">
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+    <a href="https://github.com/farhanalwanda">
+        <img alt="Farhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farhanalwanda&custom_title=Farhan%20Alwanda's%20Contribution%20Graph&theme=react-dark" />
+    </a>
+  <br/>
+</details>
 
 ## 🙋‍♀️ Let's Connect
 
