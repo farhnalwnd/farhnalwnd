@@ -90,11 +90,6 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/farhnalwnd">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&locale=en&theme=algolia" alt="farhnalwnd" height="192px"/>
-    </a>
-  </p>
-  <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&locale=en&theme=algolia&hide_rank=true&number_format=short" alt="farhnalwnd" height="192px"/>
   </p>
   <p align="center">
