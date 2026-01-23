@@ -59,11 +59,11 @@ I am a recent Informatics Engineering graduate from President University with ha
   &emsp;
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
   &emsp;
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
+  &emsp;
   <img alt="AJAX" src="https://img.shields.io/badge/AJAX-blue?style=flat">
   &emsp;
   <img alt="DataTables" src="https://img.shields.io/badge/DataTables-black?style=flat">
-  &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 👉 IoT & Hardware
