@@ -80,7 +80,7 @@ I am a recent Informatics Engineering graduate from President University with ha
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&locale=en&theme=algolia&hide_rank=true&number_format=short" alt="farhnalwnd" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=farhnalwnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="farhnalwnd" height="192px"/>
   </p>
   <p align="center">
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
