@@ -104,6 +104,16 @@ I am a recent Informatics Engineering graduate from President University with ha
 
 <br/>
 
+## 📊 Git Insights & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhnalwnd&theme=algolia" height="192px" alt="Streak Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.com/api/wakatime?username=farhnalwnd&theme=algolia&layout=compact" height="192px" alt="Wakatime Stats" />
+</p>
+
+<br/>
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
