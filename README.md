@@ -96,29 +96,6 @@ I am a recent Informatics Engineering graduate from President University with ha
 
 <br/>
 
-## ⏳ Weekly Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.com/api/wakatime?username=farhnalwnd&theme=algolia&layout=compact" alt="Wakatime Stats" />
-</p>
-
-<br/>
-
-## 📊 Git Insights & Metrics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhnalwnd&theme=algolia" height="192px" alt="Streak Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.com/api/wakatime?username=farhnalwnd&theme=algolia&layout=compact" height="192px" alt="Wakatime Stats" />
-</p>
-
-<br/>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer+%7C+System+Engineer;IoT+%26+AI+Integration+Enthusiast;Informatics+Engineering+Graduate;Always+learning+new+things&center=true&width=500&height=50&font=georgia">
-  </a>
-</p>
-<br/>
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
