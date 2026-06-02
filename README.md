@@ -96,6 +96,14 @@ I am a recent Informatics Engineering graduate from President University with ha
 
 <br/>
 
+## ⏳ Weekly Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.com/api/wakatime?username=farhnalwnd&theme=algolia&layout=compact" alt="Wakatime Stats" />
+</p>
+
+<br/>
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
