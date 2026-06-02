@@ -113,7 +113,12 @@ I am a recent Informatics Engineering graduate from President University with ha
 </p>
 
 <br/>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer+%7C+System+Engineer;IoT+%26+AI+Integration+Enthusiast;Informatics+Engineering+Graduate;Always+learning+new+things&center=true&width=500&height=50&font=georgia">
+  </a>
+</p>
+<br/>
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
